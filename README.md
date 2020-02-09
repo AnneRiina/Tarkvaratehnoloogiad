@@ -1,0 +1,2 @@
+# Tarkvaratehnoloogiad
+Äriregistri andmestik
